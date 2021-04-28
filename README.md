@@ -35,6 +35,7 @@ print(sentiment_result2)
 
 
 ## Limitation 
+- Must feeding with String | List | Numpy-Array
 - Max Word for feeding: 450 words / paragraph
 - Results: [sentiment1, sentiment2, sentiment3,..., sentiment4]
 
