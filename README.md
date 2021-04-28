@@ -22,7 +22,7 @@ This project is the part of my Senior Project in CSS403 Computer Engineering Pro
 from Sentip.Sentip import *
 
 sentip = Sentip()
-sentiment_result1 = sentip.sentiment('นี่มันแย่มาก ๆ เลย')
+sentiment_result1 = sentip.sentiment('นี่มันแย่มากเลย')
 
 print(sentiment_result1)
 > ['neg']
