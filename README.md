@@ -43,6 +43,8 @@ print(sentiment_result2)
 ## Dependency
 - Tokenization apply pythainlp.tokenize.word_tokenize(_text_ls, engine="newmm")
 - POS apply pythainlp.tag.pos_tag(_sentence_ls, corpus="orchid") 
+- Data provided by Wisesight Sentiment Corpus
+- Word Embedding provided by thai2fit
 
 
 
