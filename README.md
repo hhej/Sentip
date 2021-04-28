@@ -1,9 +1,7 @@
 # Sentip: Thai Social Data Sentiment Classifier
 > Bidirectional GRU-CNN with Self-Attention Model for Thai Social Data Sentiment Classifier
 > 
-This project is the part of my Senior Project in CSS403 Computer Engineering Project, 
-
-Computer Engineering Department at SIIT
+This project is the part of my Senior Project in CSS403 Computer Engineering Project, Computer Engineering Department at SIIT
 
 ## **My Advisor**
 - Assoc. Prof. Dr. Ekawit Nantajeewarawat
