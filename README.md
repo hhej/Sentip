@@ -5,6 +5,7 @@ This project is the part of my Senior Project in CSS403 Computer Engineering Pro
 
 ## **My Advisor**
 - Assoc. Prof. Dr. Ekawit Nantajeewarawat
+- Nuttapong Sanglerdsinlapachai
 
 # Requirements
 - Python 3.7.x
