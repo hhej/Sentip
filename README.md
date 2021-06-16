@@ -7,7 +7,7 @@ This project is the part of my Senior Project in CSS403 Computer Engineering Pro
 - Assoc. Prof. Dr. Ekawit Nantajeewarawat
 - Nuttapong Sanglerdsinlapachai
 
-# Requirements
+## Requirements
 - Python 3.7.x
 - pip install -r requirements_dev.txt
 
@@ -48,7 +48,7 @@ print(sentiment_result2)
 
 
 
-# **Contributor**
+## **Contributor**
 - Panjapol Ampornratana
 - Phitchayapha Niyomwan
 - Natnapin Maspakorn
