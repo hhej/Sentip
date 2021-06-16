@@ -48,7 +48,7 @@ print(sentiment_result2)
 
 
 
-## **Contributor**
+## **Contributors**
 - Panjapol Ampornratana
 - Phitchayapha Niyomwan
 - Natnapin Maspakorn
